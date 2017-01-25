@@ -1,0 +1,5 @@
+From within the pageload of a web part for this example.. 
+
+Register jQuery for use on specific pages where its needed for some reason.
+
+ScriptManager.RegisterClientScriptInclude(this, GetType(), "webpartname", "/_layouts/solutionPath/Script/jquery-1.8.3.js"); 
