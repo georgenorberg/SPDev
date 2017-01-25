@@ -1,0 +1,6 @@
+From MSDN forums - since I had to hunt around far too much to find the solution to this:
+
+Close Visual Studio
+Start the Developer Command prompt installed with Visual Studio as an administrator.
+type 'devenv /resetuserdata' ('wdexpress /resetuserdata' for Express SKUs)
+Start Visual Studio Normally.

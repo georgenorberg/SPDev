@@ -1,0 +1,21 @@
+#SharePoint & Microsoft
+https://dev.office.com/patterns-and-practices 
+https://blogs.office.com 
+
+https://community.nintex.com/ 
+https://community.nintex.com/community/build-your-own 
+
+SharePoint Framwork > https://github.com/SharePoint/sp-dev-docs/wiki 
+REST > http://mysharepointinsight.blogspot.se/2013/05/using-sharepoint-rest-services-from.html 
+
+
+#Web
+http://learn.knockoutjs.com/#/?tutorial=intro 
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
+http://tutorialzine.com/2016/07/learn-typescript-in-30-minutes/ 
+
+http://c3js.org/gettingstarted.html 
+
+#Links to articles and blogs (More specific stuff)
+
+http://www.ilikesharepoint.de/2013/12/sharepoint-override-save-button-in-list-form-by-using-csharp/ 

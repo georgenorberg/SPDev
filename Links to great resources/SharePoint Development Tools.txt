@@ -1,0 +1,6 @@
+PowerShell UI for overview of PowerShell commands:
+https://www.microsoft.com/resources/TechNet/en-us/Office/media/WindowsPowerShell/WindowsPowerShellCommandBuilder.html 
+
+https://smtp4dev.codeplex.com 
+
+https://www.visualstudio.com/sv-se/docs/work/backlogs/connect-work-items-to-git-dev-ops 
