@@ -1,0 +1,20 @@
+######################################################################
+These are the steps for setting up a Typescript based Office 365 SharePoint online dev env.
+
+1. Install Node.js (install and forget, kinda like when you use to install visual studio and you got .net installed. You never rly use directly)
+2. https://www.npmjs.com/
+3/4. Select your program for coding. I like Visual Studio (not code for this, but its possible).
+    3.1 Go to Tools > Extensions and Updates > Online > search for TypeScript. 
+    3.2 Install it.
+5. Install Gulp
+6. Web Pack 
+
+
+
+
+How to deploy sharepoint scripts/ solutions
+
+A great way to deploy scripts that should be injected to almost all contexts is to create a Custom Action. ( sharepoint project deploy by uploading )
+
+
+######################################################################
